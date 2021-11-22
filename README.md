@@ -21,4 +21,4 @@
 - кроссбраузерность: IE10+, Chrome, Firefox, Opera
 - сайт адаптирован под современные браузеры и мобильные устройства
 
-![rating](https://romank123.github.io/images/io-klay.jpg)
+![rating](https://romank123.github.io/images/io-klay-instrument.jpg)
