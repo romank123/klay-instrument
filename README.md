@@ -6,7 +6,7 @@
     Верстка сайта компании
 </h1>
 
-<strong><em>`Задача:`</em></strong> создать минимальное приложение для медитации на нативном js<br>
+<strong><em>`Задача:`</em></strong> создать страницу с минимальными параметрами<br>
 <strong><em>`Демо:`</em></strong> <a href="https://romank123.github.io/klay-instrument/" target="_blank"> romank123.github.io/klay-instrument/</a>
 
 ## Технологии:
